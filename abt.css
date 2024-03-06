@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("pexels-pixabay-531756.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ser{
+    background-color: rgb(50, 50, 104);
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+}
+
